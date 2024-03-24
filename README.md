@@ -1,0 +1,3 @@
+# FragmentViewModelActivity
+
+### Android Studio Template
